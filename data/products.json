@@ -1,0 +1,216 @@
+[
+  {
+    "id": "1",
+    "productSKU": "1801-82A-XL",
+    "productName": "ATTIITUDE WHITE T-SHIRT WITH VERTICAL PIGMENT PRINT",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_79313561-9ef0-4911-912a-122709aac8e3.jpg?v=1527600590",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_69a74e39-df9b-4480-9878-1efda1dad05f.jpg?v=1527600617"
+    ],
+    "productDesc":
+      "An Iconic Piece From The French Underground Collection Features A Vertical Branding Between The Chest And Double I Branding On Both The Sleeves. This White T-Shirt Adds A Touch Of Style To The Look.",
+    "price": 999.0,
+    "inStock": 30,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "2",
+    "productSKU": "A1801-84C-M",
+    "productName":
+      "ATTIITUDE DARK GREY FULL SLEEVE T-SHIRT WITH CUT-N-SEW PANELS",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_e7ca0234-ba13-4b0a-a360-9d430f49d16b.jpg?v=1527762406",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_5299dd4c-c550-4796-9274-00fd5113f4c0.jpg?v=1527762410"
+    ],
+    "productDesc":
+      "A Perfect Piece To Inject Style Statement To Your Daily Attire Rotation. This Full Sleeve T-Shirt Features Attiitude Branding On Both The Shoulders, 3 Cut-N-Sew Panels; One On The Back, Remaining Two Panels Below Both The Sleeves. Double I Branding On Both The Cut-N-Sew Panels Below The Sleeves. This Dark Grey Masterpiece Can Be Worn All Season Long.",
+    "price": 1359.0,
+    "inStock": 40,
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": "3",
+    "productSKU": "A1801-82D-M",
+    "productName": "ATTIITUDE LIGHT GREY T-SHIRT WITH VERTICAL PIGMENT PRINT",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_22d1ae88-8754-48eb-957e-8acce581cdf1_1024x1024.jpg?v=1527600948",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_124b3ac7-ee50-40b9-b96a-0cbe6337d820_1024x1024.jpg?v=1527600995"
+    ],
+    "productDesc":
+      "An Iconic Piece From The French Underground Collection Features A Vertical Branding Between The Chest And Double I Branding On Both The Sleeves. This Light-Grey T-Shirt Adds A Touch Of Style To The Look.",
+    "price": 999.0,
+    "inStock": 30,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "4",
+    "productSKU": "A1608-79B-M",
+    "productName": "ATTIITUDE BLACK LONG HEM T SHIRT WITH SPRAY WASH",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_74dc7d87-5b21-44a7-aee6-18246bcb42cc_1024x1024.jpg?v=1523108438",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/4_4ad07ab8-f882-4697-9b98-7f3839547dc0_1024x1024.jpg?v=1523108438"
+    ],
+    "productDesc":
+      "Black longline t shirt with white spray wash from Attiitude is crafted from 100% Cotton, incredibly comfortable and light weight. This piece features a long hem, and Attiitude logo discharge print branding in the front and double I branding at the back.",
+    "price": 799.0,
+    "inStock": 50,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "5",
+    "productSKU": "A1603-63B-L",
+    "productName": "ATTIITUDE BLACK RAGLAN T SHIRT WITH SUEDE PANELS",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/3_76d9d8e4-ede3-4acc-9988-b0069e75995c_1024x1024.png?v=1508743142",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_c2233e1e-178f-46ff-83bc-e312cefa71db_1024x1024.png?v=1508743142"
+    ],
+    "productDesc":
+      "Say hey to the naysayers in style with this Black Raglan T shirt. This product features 3 suede patches, two on the left and right side below the arm, one on the back side right below the neck line. To add extra feel, this t-shirt also features HD branding on the sleeve and at the back. Use this as a style weapon for your party, gym, date, and college.",
+    "price": 1599.0,
+    "inStock": 30,
+    "sizes": ["L", "XL", "XXL"]
+  },
+  {
+    "id": "6",
+    "productSKU": "A1603-14B-M",
+    "productName": "ATTIITUDE BLACK T SHIRT WITH SCREEN PRINT AND WHITE RIB",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/14Bb_1024x1024.jpg?v=1515582165",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/14Ba_1024x1024.jpg?v=1515582165"
+    ],
+    "productDesc":
+      "This is a classic black t shirt made of slub jersey with double layered round neck and short sleeves. It is finished with a contrast branding striped print on the back and on the front hemline.",
+    "price": 1199.0,
+    "inStock": 40,
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": "7",
+    "productSKU": "A1603-17Y-L",
+    "productName": "ATTIITUDE STENCIL PRINTED WHITE T SHIRT",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_a0ec19a2-2ec9-4e5f-96aa-bb158feb4f66_1024x1024.jpg?v=1496158492",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_1d283d66-fa15-4403-9486-fbcf1b8ae5a3_1024x1024.jpg?v=1496158496"
+    ],
+    "productDesc":
+      "This color blocking T-shirt takes classic texture in modern directions. Featured with contrast panel on the side with logo branding and Stencil Attiitude logo branding on the front. This piece begs to be worn untucked over a minimal pant for a flawless street wear look. Made of slub jersey suits your summer wardrobe well. ",
+    "price": 1199.0,
+    "inStock": 30,
+    "sizes": ["L", "XL", "XXL"]
+  },
+  {
+    "id": "8",
+    "productSKU": "A1602-04C-L",
+    "productName": "ATTIITUDE BLACK T SHIRT WITH WHITE SLEEVES",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_de1363ce-da65-488e-a12f-404e0011a00e_1024x1024.jpg?v=1489494500",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/3_ee23ebf4-bdd8-4774-9eea-4ab67c577e37_1024x1024.jpg?v=1489494500"
+    ],
+    "productDesc":
+      "Featuring t shirt from Attiitude collection is crafted from premium cotton and cut to offer a relaxed fit. The front and the back section of the T shirt is black while the sleeves are white with a printed branding. It is finished with round neck and long line asymmetrical hem.",
+    "price": 849.15,
+    "inStock": 40,
+    "sizes": ["L", "XL", "XXL"]
+  },
+  {
+    "id": "9",
+    "productSKU": "A1603-15A-M",
+    "productName": "ATTIITUDE WHITE T SHIRT WITH FABRIC BONDING AND CAP SLEEVE",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_f7eeddb8-f763-47ea-84e0-44ee5aaaf6a6_1024x1024.jpg?v=1495821056",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/3_f29bce41-a4ec-43de-8b1a-0dc308f63faf_1024x1024.jpg?v=1495821056"
+    ],
+    "productDesc":
+      "Attiitude Relaxed fit white color t-shirt with cap sleeve features bonded double I branding covering the chest. Features Attiitude banding on the back hem cut panel. This contemporary crafted t-shirt is an ideal everyday piece.",
+    "price": 1239.0,
+    "inStock": 40,
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "10",
+    "productSKU": "A1801-83D-M",
+    "productName":
+      "ATTIITUDE LIGHT GREY FULL SLEEVE T-SHIRT WITH VERTICAL PIGMENT PRINT",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_a006f820-a9cb-4a46-8d42-c34397338dc9_1024x1024.jpg?v=1527761001",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_72cc819a-9e4b-4157-b1db-bb391d87d68d_1024x1024.jpg?v=1527761005"
+    ],
+    "productDesc":
+      "Full Sleeve T-Shirt Made Of 100% Cotton Features A Vertical Branding Between The Chest And Double I Branding On Both The Sleeves. Put On This Light Grey Piece For Laid-Back Moments.",
+    "price": 1359.0,
+    "inStock": 40,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "11",
+    "productSKU": "A1801-83C-M",
+    "productName":
+      "ATTIITUDE DARK GREY FULL SLEEVE T-SHIRT WITH VERTICAL PIGMENT PRINT",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_04126ec3-dcd4-4936-a116-eff1642d6305_1024x1024.jpg?v=1527761369",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_eb9a65ab-586c-419b-9f2c-13512d01b14f_1024x1024.jpg?v=1527761373"
+    ],
+    "productDesc":
+      "Full Sleeve T-Shirt Made Of 100% Cotton Features A Vertical Branding Between The Chest And Double I Branding On Both The Sleeves. Put On This Dark Grey Piece For Laid-Back Moments.",
+    "price": 1359.0,
+    "inStock": 60,
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": "12",
+    "productSKU": "A1608-78D-M",
+    "productName": "ATTIITUDE REGULAR HEM WHITE T SHIRT WITH TIE & DIE WASH",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_2aa521f4-30be-4d88-a63a-cca5f6f94705_1024x1024.jpg?v=1523104213",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/4_43c09c60-b70b-45ce-b143-c51e71cf993d_1024x1024.jpg?v=1523104213"
+    ],
+    "productDesc":
+      "A unique white regular hem t-shirt from Attiitude is crafted from 100% Cotton. This piece features a tie & die wash, a regular hem line, and Attiitude logo discharge print branding in the front and double I branding at the back.",
+    "price": 799.0,
+    "inStock": 40,
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": "13",
+    "productSKU": "A1603-13A-M",
+    "productName": "ATTIITUDE WHITE T SHIRT WITH BLACK PANEL",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/5_8ae51252-5acc-41a3-8b22-3e5df88d7c6e_1024x1024.png?v=1508414959",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/2_2a72f0bd-a1fc-424c-b182-8dc67164bd4d_1024x1024.png?v=1508414959"
+    ],
+    "productDesc":
+      "Attiitude concepts offers performance enhancing gear that moves with you from the gym to the streets, seamlessly. Crafted from premium cotton this T-shirt is black on the front section while the sleeves and the back are white with printed branding detail. Features contrast cut panels on side, front, & back with contrast branding, and Double I hollow HD branding in the front.",
+    "price": 1119.0,
+    "inStock": 20,
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "14",
+    "productSKU": "A1603-100A-M",
+    "productName":
+      "ATTIITUDE PANELLED T SHIRT WITH WHITE FLOCK PRINT - FULL SLEEVE",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_14f210e2-3039-44c5-a1ae-d927ff5fc7e4_1024x1024.jpg?v=1495821128",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/4_f7e040b1-fa50-400f-8ffd-ad53557c5667_1024x1024.jpg?v=1495821128"
+    ],
+    "productDesc":
+      "A signature style from the British-born brand Attiitude presents the latest round neck color blocking full sleeve t-shirt. This avant garde sweatshirt is an ideal piece for layering. This t-shirt features grunge horizontal Attiitude branding flowing from the front half to the back half, and double I branding on both the sleeves. ",
+    "price": 1199.0,
+    "inStock": 40,
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "15",
+    "productSKU": "A1603-05Z-M",
+    "productName": "ATTIITUDE BLACK RAW EDGE PANEL T SHIRT",
+    "productImages": [
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/1_3ef0fe74-edf5-4dac-929b-9983d37d066c_1024x1024.jpg?v=1496177344",
+      "https://cdn.shopify.com/s/files/1/1662/7629/products/3_bb7a9a6a-dcaf-4a21-a94e-01ba8b4e419d_1024x1024.jpg?v=1496177344"
+    ],
+    "productDesc":
+      "//cdn.shopify.com/s/files/1/1662/7629/products/3_bb7a9a6a-dcaf-4a21-a94e-01ba8b4e419d_1024x1024.jpg?v=1496177344",
+    "price": 1199.0,
+    "inStock": 20,
+    "sizes": ["M", "L", "XL", "XXL"]
+  }
+]
